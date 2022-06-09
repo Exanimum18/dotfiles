@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = santiago.baron.18@gmail.com
+	name = Santiago Baron Castaño
